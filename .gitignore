@@ -2,6 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+/State.io Clone/[Ll]ibrary/
+/State.io Clone/[Tt]emp/
+/State.io Clone/[Oo]bj/
+/State.io Clone/[Bb]uild/
+/State.io Clone/[Bb]uilds/
+/State.io Clone/[Ll]ogs/
+/State.io Clone/[Uu]ser[Ss]ettings/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
